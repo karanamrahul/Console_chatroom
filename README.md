@@ -5,8 +5,6 @@
 
 A Console based application using C++.
 
-It has several features such as users can sign in,sign out. After Signing in they can add friends,send messages,make as group chat.
-
 
 # Features: #
 
